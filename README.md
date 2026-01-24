@@ -29,26 +29,16 @@
 
 **Other tools**
 - Git & GitHub  
-- Google Sheets / Excel  
 - Jupyter Notebook  
 
 ---
 
 ## 📂 Featured projects
 
-🔹 **Project name 1**  
-Brief description of the problem, the data used, and the impact of the analysis.  
+🔹 **Video Game Sales Analysis 1**  
+Data analysis project focused on identifying patterns of successful video games
+using sales data, reviews, platforms, genres, and ESRB ratings.
 _Technologies_: Python, SQL  
-
-🔹 **Project name 2**  
-Brief description of the objective and the main insights obtained.  
-_Technologies_: Python, visualization  
-
-🔹 **Project name 3**  
-Project focused on metrics, cohorts, retention, or business analysis.  
-_Technologies_: SQL, dashboards  
-
-_(Add repository links once available)_
 
 ---
 
@@ -64,9 +54,8 @@ _(Add repository links once available)_
 
 ## 📫 Contact
 
-- 💼 LinkedIn: ___  
-- ✉️ Email: ___  
-- 🌐 Portfolio (if applicable): ___  
+- 💼 LinkedIn:  www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7
+- ✉️ Email: bladimir4hernandez@gmail.com _  
 
 ---
 
