@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ___
+# 👋 Hi, I’m Bladimir Hernandez
 
 🎯 **Data Analyst** passionate about transforming data into actionable insights and supporting evidence-based decision-making.
 
@@ -6,7 +6,7 @@
 
 ## 🧠 About me
 
-- 📊 Data analyst focused on exploratory data analysis, business metrics, and data visualization  
+- 📊 Data analyst focused on exploratory data analysis, business metrics, KPS and data visualization  
 - 🔍 Interested in understanding user behavior, performance, and operational efficiency  
 - 🧩 I enjoy working with real-world data, solving problems, and clearly communicating results  
 
@@ -25,12 +25,7 @@
 **Visualization**
 - Matplotlib  
 - Seaborn  
-- Tableau / Power BI _(fill in as applicable)_
-
-**Databases**
-- PostgreSQL  
-- Snowflake  
-- BigQuery _(optional)_
+- Tableau (Basic) / Power BI (Basic)
 
 **Other tools**
 - Git & GitHub  
