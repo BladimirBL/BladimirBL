@@ -71,7 +71,7 @@ _Technologies_: Python, SQL
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7](https://www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7)
 - ✉️ Email: bladimir4hernandez@gmail.com _  
 
 ---
