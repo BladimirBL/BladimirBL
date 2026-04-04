@@ -46,9 +46,7 @@
 
 ## 📊 GitHub Stats
 
-![Bladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BladimirBL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirBL&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BladimirBL&theme=tokyonight)
 
 ---
 
