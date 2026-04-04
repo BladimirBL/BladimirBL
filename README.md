@@ -23,6 +23,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Data Visualization**
 
